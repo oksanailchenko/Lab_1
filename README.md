@@ -4,5 +4,5 @@
 
 Браузерний додаток має вигляд:
 
-![Application window](https://imgur.com/cnN6Lvf.png)
+![Application window](https://i.imgur.com/fg7pK6b.png)
 
